@@ -9,6 +9,6 @@
 
 <img src="Angular_full_color_logo.svg.png" width="20"/> [Angular](https://angular.io/)
 
-<img src="net.png" width="20"/> [ .NET](https://dotnet.microsoft.com/)
+<code><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png"></code> [ .NET](https://dotnet.microsoft.com/)
 
 
