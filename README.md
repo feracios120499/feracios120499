@@ -9,6 +9,6 @@
 
 <img src="Angular_full_color_logo.svg.png" width="20"/> [Angular](https://angular.io/)
 
-<img src="net.png" width="20"/> [.NET](https://dotnet.microsoft.com/)
+<img src="net.png" width="20"/> [ .NET](https://dotnet.microsoft.com/)
 
 
