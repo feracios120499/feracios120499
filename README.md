@@ -4,6 +4,7 @@
 
 ## Tech
 
-- [AngularJS](https://angularjs.org) <img src="Angular_full_color_logo.svg.png" width="50" />
+
+- [AngularJS](https://angularjs.org) <img src="Angular_full_color_logo.svg.png" width="30" />
 
 
